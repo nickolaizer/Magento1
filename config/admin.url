@@ -1,0 +1,11 @@
+http://music.local/
+http://music.local/admin_qwgl3y
+
+
+admin
+admin123
+
+
+sudo -u www-data bin/magento s:d:c
+
+

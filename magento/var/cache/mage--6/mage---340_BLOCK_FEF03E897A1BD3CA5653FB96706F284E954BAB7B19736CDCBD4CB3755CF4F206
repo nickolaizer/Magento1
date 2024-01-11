@@ -1,0 +1,546 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1703855034;s:6:"expire";i:1703941434;s:4:"tags";s:110:"340_CAT_P,340_BLOCK_HTML,340_CAT_P_74,340_CAT_P_84,340_CAT_P_68,340_CAT_P_95,340_CAT_P_6,340_CAT_P_14,340_MAGE";}
+        <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/rickenbacker-4003-fg.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-74">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/r/i/rick_b_4003fg.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Rickenbacker&#x20;4003&#x20;FG"/></span>
+</span>
+<style>.product-image-container-74 {
+    width: 240px;
+}
+.product-image-container-74 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-74");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-74  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Rickenbacker 4003 FG"
+                                       href="http://music.local/rickenbacker-4003-fg.html"
+                                       class="product-item-link">
+                                        Rickenbacker 4003 FG                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="74" data-price-box="product-id-74">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-74-widget-product-grid"                data-price-amount="999"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$999.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-74-widget-product-grid"                data-price-amount="2700"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$2,700.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="4003FG" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/74/" method="post">
+                                                            <input type="hidden" name="product" value="74">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0Lzc0Lw~~">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":74,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"74","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/gibson-les-paul-modern-lite.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-84">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/g/i/gibson_e_lespaul.png"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Gibson&#x20;Les&#x20;Paul&#x20;Modern&#x20;Lite"/></span>
+</span>
+<style>.product-image-container-84 {
+    width: 240px;
+}
+.product-image-container-84 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-84");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-84  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Gibson Les Paul Modern Lite"
+                                       href="http://music.local/gibson-les-paul-modern-lite.html"
+                                       class="product-item-link">
+                                        Gibson Les Paul Modern Lite                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="84" data-price-box="product-id-84">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-84-widget-product-grid"                data-price-amount="1699"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$1,699.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-84-widget-product-grid"                data-price-amount="1899"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$1,899.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="les_paul" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/84/" method="post">
+                                                            <input type="hidden" name="product" value="84">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0Lzg0Lw~~">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":84,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"84","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/fender-mustang-bass.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-68">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/f/e/fender_b_mustangbass.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Fender&#x20;Mustang&#x20;Bass"/></span>
+</span>
+<style>.product-image-container-68 {
+    width: 240px;
+}
+.product-image-container-68 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-68");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-68  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fender Mustang Bass"
+                                       href="http://music.local/fender-mustang-bass.html"
+                                       class="product-item-link">
+                                        Fender Mustang Bass                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="68" data-price-box="product-id-68">
+    <span class="special-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Special Price</span>
+        <span  id="old-price-68-widget-product-grid"                data-price-amount="999"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$999.00</span></span>
+        </span>
+    </span>
+    <span class="old-price">
+        
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">Regular Price</span>
+        <span  id="old-price-68-widget-product-grid"                data-price-amount="1179"
+        data-price-type="oldPrice"
+        class="price-wrapper "
+    ><span class="price">$1,179.00</span></span>
+        </span>
+    </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="mustang_bass" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/68/" method="post">
+                                                            <input type="hidden" name="product" value="68">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0LzY4Lw~~">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":68,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"68","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/yamaha-bb434.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-95">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/y/a/yamaha_b_bb434-tb.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Yamaha&#x20;BB434"/></span>
+</span>
+<style>.product-image-container-95 {
+    width: 240px;
+}
+.product-image-container-95 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-95");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-95  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Yamaha BB434"
+                                       href="http://music.local/yamaha-bb434.html"
+                                       class="product-item-link">
+                                        Yamaha BB434                                    </a>
+                                </strong>
+                                                                                                    
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="95" data-price-box="product-id-95">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-95-widget-product-grid"                data-price-amount="599"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$599.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="BB434" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/95/" method="post">
+                                                            <input type="hidden" name="product" value="95">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0Lzk1Lw~~">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":95,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"95","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/fusion-backpack.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-6">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/m/b/mb02-gray-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Fusion&#x20;Backpack"/></span>
+</span>
+<style>.product-image-container-6 {
+    width: 240px;
+}
+.product-image-container-6 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-6");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-6  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Fusion Backpack"
+                                       href="http://music.local/fusion-backpack.html"
+                                       class="product-item-link">
+                                        Fusion Backpack                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_6"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemG7j5CoXEArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemG7j5CoXEArray.length !== 'undefined'){
+        elemG7j5CoXEArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://music.local/fusion-backpack.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="59"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$59.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-MB02" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/6/" method="post">
+                                                            <input type="hidden" name="product" value="6">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0LzYv">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":6,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://music.local/push-it-messenger-bag.html" class="product-item-photo">
+                                <span class="product-image-container product-image-container-14">
+    <span class="product-image-wrapper">
+        <img class="product-image-photo"
+                        src="http://music.local/media/catalog/product/cache/9233410fc76f111079c5e74250a828b0/w/b/wb04-blue-0.jpg"
+            loading="lazy"
+            width="240"
+            height="300"
+            alt="Push&#x20;It&#x20;Messenger&#x20;Bag"/></span>
+</span>
+<style>.product-image-container-14 {
+    width: 240px;
+}
+.product-image-container-14 span.product-image-wrapper {
+    padding-bottom: 125%;
+}</style><script type="text&#x2F;javascript">prodImageContainers = document.querySelectorAll(".product-image-container-14");
+for (var i = 0; i < prodImageContainers.length; i++) {
+    prodImageContainers[i].style.width = "240px";
+}
+prodImageContainersWrappers = document.querySelectorAll(
+    ".product-image-container-14  span.product-image-wrapper"
+);
+for (var i = 0; i < prodImageContainersWrappers.length; i++) {
+    prodImageContainersWrappers[i].style.paddingBottom = "125%";
+}</script>                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="Push It Messenger Bag"
+                                       href="http://music.local/push-it-messenger-bag.html"
+                                       class="product-item-link">
+                                        Push It Messenger Bag                                    </a>
+                                </strong>
+                                                                            <div class="product-reviews-summary short">
+                <div class="rating-summary">
+            <span class="label"><span>Rating:</span></span>
+            <div class="rating-result"
+                 id="rating-result_14"
+                 title="67%">
+                <span><span>67%</span></span>
+            </div>
+            <script type="text&#x2F;javascript">    var elemPTqQwb8JArray = document.querySelectorAll('#rating-result_14 span');
+    if(elemPTqQwb8JArray.length !== 'undefined'){
+        elemPTqQwb8JArray.forEach(function(element) {
+            if (element) {
+                element.style.width = '67%';
+
+            }
+        });
+    }</script>        </div>
+                <div class="reviews-actions">
+            <a class="action view"
+               href="http://music.local/push-it-messenger-bag.html#reviews">3                &nbsp;<span>Reviews                </span>
+            </a>
+        </div>
+    </div>
+                                
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="14" data-price-box="product-id-14">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+        <span  id="old-price-14-widget-product-grid"                data-price-amount="45"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$45.00</span></span>
+        </span>
+
+</div>
+                                
+                                                                    <div class="product-item-inner">
+                                        <div class="product-item-actions">
+                                                                                            <div class="actions-primary">
+                                                                                                                                                                    <form data-role="tocart-form" data-product-sku="24-WB04" action="http://music.local/checkout/cart/add/uenc/aHR0cDovL211c2ljLmxvY2FsLw~~/product/14/" method="post">
+                                                            <input type="hidden" name="product" value="14">
+                                                            <input type="hidden" name="uenc" value="aHR0cDovL211c2ljLmxvY2FsL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMjExYzJsakxteHZZMkZzTHd-fi9wcm9kdWN0LzE0Lw~~">
+                                                            <input name="form_key" type="hidden" value="zNJAYQHvLm7GmSJq" />                                                            <button type="submit"
+                                                                    title="Add to Cart"
+                                                                    class="action tocart primary">
+                                                                <span>Add to Cart</span>
+                                                            </button>
+                                                        </form>
+                                                                                                    </div>
+                                                                                                                                        <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/music.local\/wishlist\/index\/add\/","data":{"product":14,"uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/music.local\/catalog\/product_compare\/add\/","data":{"product":"14","uenc":"aHR0cDovL211c2ljLmxvY2FsLw~~"}}' title="Add&#x20;to&#x20;Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
+        <script type="text/x-magento-init">
+    {
+        ".block.widget [data-role=tocart-form]": {
+            "Magento_Catalog/js/validate-product": {}
+        }
+    }
+    </script>
+    

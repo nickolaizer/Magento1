@@ -1,0 +1,1 @@
+/var/www/mage/magento/lib/web/mage/adminhtml/events.js
